@@ -1,0 +1,19 @@
+﻿Totiviridae species,Genome Accession,Protein Accession,Abbreviation,Genus,Name,Host phylum,Host Order,Host Common Name,Blast (coverage:identity)
+Solenopsis midden virus,MH727531,Unassigned,SMV,Unassigned,Solenopsis midden virus MH727531,Arthropoda,Hymenoptera,Ant,NA
+Leptopilina boulardi toti-like virus,NC025218,YP009072448,LBTlV,Unassigned,Leptopilina boulardi toti-like virus NC025218,Arthropoda,Hymenoptera,Wasp,86_42
+Shuangao toti-like virus,NC032851,YP009336732.1,STlV,Unassigned,Shuangao toti-like virus NC032851,Arthropoda,Various,Insect pool,83_59
+Linepithema humile toti-like virus,MH213243,AXA52555.1,LHTlV,Unassigned,Linepithema humile toti-like virus MH213243,Arthropoda,Hymenoptera,Ant,83_41
+Camponotus nipponicus totivirus,NC029312,YP009230208.1,CNTV,Unassigned,Camponotus nipponicus totivirus NC029312,Arthropoda,Hymenoptera,Ant,
+Camponotus yamaokai virus,NC027212,YP009143313.1,CYV,Unassigned,Camponotus yamaokai virus NC027212,Arthropoda,Hymenoptera,Ant,
+Hubei toti-like virus 23,KX882953,APG75999.1,HTlV23,Unassigned,Hubei toti-like virus 23 KX882953,Arthropoda,Various,Insect pool,
+Hubei toti-like virus 22,KX882954,APG76000.1,HTlV22,Unassigned,Hubei toti-like virus 22 KX882954,Arthropoda,Various,Insect pool,
+Hubei toti-like virus 19,NC032424,YP009333170.1,HTlV19,Unassigned,Hubei toti-like virus 19 NC032424,Arthropoda,Diptera,Horsefly,
+Sanxia water strider virus 20,NC032931,YP009336893.1,SWSV20,Unassigned,Sanxia water strider virus 20 NC032931,Arthropoda,Hemiptera,Bug,
+Saccharomyces cerevisiae virus LA,J04692,AAA50506.1,ScVLA,Totivirus,Saccharomyces cerevisiae virus LA J04692,Ascomycota,Saccharomycetales,Fungus,
+Saccharomyces cerevisiae virus LB,U01060,AAB02146.1,ScVLB,Totivirus,Saccharomyces cerevisiae virus LB U01060,Basidiomycota,,Fungus,
+Thielaviopsis basicola dsRNA virus 1,AY561500,AAS68036.1,ThBRV1,Victorivirus,Thielaviopsis basicola dsRNA virus 1 AY561500,Ascomycota,,Fungus,
+Epichloe festucae virus 1,NC038930,YP009508253.1,EfV1,Victorivirus,Epichloe festucae virus 1 NC038930,Ascomycota,,Fungus,
+Trichomonas vaginalis virus 1,U08999,AAA62868.1,TVV1,Giardiavirus,Trichomonas vaginalis virus 1 U08999,Metamonada,Trichomonadida,Trichopmonas vaginalis,
+Trichomonas vaginalis virus 2,AF127178,AAF29445.1,TVV2,Giardiavirus,Trichomonas vaginalis virus 2 AF127178,Metamonada,Trichomonadida,Trichopmonas vaginalis,
+Leishmania RNA virus 1,M92355,AAB50024.1,LRV1,Leishmaniavirus,Leishmania RNA virus 1 M92355,Euglenozoa,Trypanosomatida,Leishmania species,
+Leishmania RNA virus 4,U01899,AAB50028.1,LRV4,Leishmaniavirus,Leishmania RNA virus 4 U01899,Euglenozoa,Trypanosomatida,Leishmania species,

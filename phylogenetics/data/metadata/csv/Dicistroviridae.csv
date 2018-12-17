@@ -1,0 +1,33 @@
+﻿Dicistroviridae species,Accession genome,Accession protein,Abbreviation,Name,Genus,ICTV,Host phylum,Host Order,Host common name,New
+Acute bee paralysis virus,AF150629,AAG13118.1,ABPV,Acute bee paralysis virus AF150629,Aparavirus,Assigned,Arthropoda,Hymenoptera,Honey bee,
+Anopheles C virus,KU169878,ALS55295.1,AnCV,Anopheles C virus KU169878,Cripavirus,Unassigned,Arthropoda,Diptera,Mosquito,
+Aphid lethal paralysis virus,AF536531,AAN61470.1,ALPV,Aphid lethal paralysis virus AF536531,Cripavirus,Assigned,Arthropoda,Homoptera,Aphid,
+Aphis glycines virus,KX588249,ARU09833.1,AGV3,Aphis glycines virus KX588249,Unassigned,Unassigned,Arthropoda,Homoptera,Aphid,
+Apis dicistrovirus,KY354239,ARO50048.1,ADV,Apis dicistrovirus KY354239,Unassigned,Unassigned,Arthropoda,Hymenoptera,Honey bee,
+Big Sioux River virus,KY826434,ASJ76984.1,BSRV,Big Sioux River virus KY826434,Unassigned,Unassigned,Arthropoda,Homoptera,Aphid,
+Bivalve RNA virus G1,KX158871,APJ38004.1,BRNAVG1,Bivalve RNA virus G1 KX158871,Unassigned,Unassigned,Mollusca,Ostreoida,Oyster,
+Black queen cell virus,AF183905,AAF72337.1,BQCV,Black queen cell virus AF183905,Triatovirus,Assigned,Arthropoda,Hymenoptera,Honey bee,
+Centovirus,KX657784,AOX47508.1,CV,Centovirus KX657784,Unassigned,Unassigned,Arthropoda,Diptera,Mosquito,
+Cricket paralysis virus,AF218039,AAF80998.1,CrPV,Cricket paralysis virus AF218039,Cripavirus,Assigned,Arthropoda,Orthoptera,Cricket,
+Drosophila C virus,AF014388,AAC58807.1,DCV,Drosophila C virus AF014388,Cripavirus,Assigned,Arthropoda,Diptera,Fruit fly,
+Formica exsecta virus 1,KF500001,AHB62420.1,FeV1,Formica exsecta virus 1 KF500001,Aparavirus,Unassigned,Arthropoda,Hymenoptera,Ant,
+Goose faecal-sample dicistrovirus,KT873140,ALV83314.1,GfsDV,Goose faecal-sample dicistrovirus KT873140,Cripavirus,Unassigned,Chordata,Anseriformes,Goose,
+Himetobi P virus,AB017037,BAA32553.1,HiPV,Himetobi P virus AB017037,Triatovirus,Assigned,Arthropoda,Homoptera,Planthopper,
+Homalodisca coagulata virus 1,DQ288865,ABC55703.1,HoCV1,Homalodisca coagulata virus 1 DQ288865,Triatovirus,Assigned,Arthropoda,Homoptera,Planthopper,
+Israeli acute paralysis virus,EF219380,AAV64179.1,IAPV,Israeli acute paralysis virus EF219380,Aparavirus,Assigned,Arthropoda,Hymenoptera,Honey bee,
+Kashmir bee virus,AY275710,AAP32283.1,KBV,Kashmir bee virus AY275710,Aparavirus,Assigned,Arthropoda,Hymenoptera,Honey bee,
+Macrobrachium rosenbergii Taihu virus,NC018570,YP006666503.2,MrTV,Macrobrachium rosenbergii Taihu virus NC018570,Aparavirus,Unassigned,Arthropoda,Decopoda,Shrimp,
+Mosquito virus,KX657786,AOX47512.1,MV,Mosquito virus KX657786,Unassigned,Unassigned,Arthropoda,Diptera,Mosquito,
+Mud crab virus,HM777507,ADR72923.1,MCV,Mud crab virus HM777507,Aparavirus,Assigned,Arthropoda,Decopoda,Crab,
+Nilaparvata lugens C virus,KM270560,AIY53985.1,NLCV,Nilaparvata lugens C virus KM270560,Cripavirus,Unassigned,Arthropoda,Homoptera,Planthopper,
+Plautia stali intestine virus,AB006531,BAA21898.1,PSIV,Plautia stali intestine virus AB006531,Triatovirus,Assigned,Arthropoda,Hemiptera,Bug,
+Rhopalosiphum padi virus,AF022937,AAC95509.1,RhPV,Rhopalosiphum padi virus AF022937,Cripavirus,Assigned,Arthropoda,Homoptera,Aphid,
+Solenopsis invicta virus 1,AY634314,AAU85375.1,SINV1,Solenopsis invicta virus 1 AY634314,Aparavirus,Assigned,Arthropoda,Hymenoptera,Ant,
+Solenopsis invicta virus 12,MH727529,Unassigned,SINV12,Solenopsis invicta virus 12 MH727529,Unassigned,Unassigned,Arthropoda,Hymenoptera,Ant,TRUE
+Solenopsis invicta virus 13,MH727530,Unassigned,SINV13,Solenopsis invicta virus 13 MH727530,Unassigned,Unassigned,Arthropoda,Hymenoptera,Ant,TRUE
+Solenopsis invicta virus 5,MF593921,ATO59709.1,SINV5,Solenopsis invicta virus 5 MF593921,Unassigned,Unassigned,Arthropoda,Hymenoptera,Ant,
+Solenopsis invicta virus 6 Formosa,MH714707,Unassigned,SINV6F,Solenopsis invicta virus 6 Formosa MH714707,Unassigned,Unassigned,Arthropoda,Hymenoptera,Ant,TRUE
+Solenopsis invicta virus 6 Hogtown,MH714708,Unassigned,SINV6H,Solenopsis invicta virus 6 Hogtown MH714708,Unassigned,Unassigned,Arthropoda,Hymenoptera,Ant,TRUE
+Solenopsis invicta virus 9,MH727526,Unassigned,SINV9,Solenopsis invicta virus 9 MH727526,Unassigned,Unassigned,Arthropoda,Hymenoptera,Ant,TRUE
+Taura syndrome virus,AF277675,AAK72220.1,TSV,Taura syndrome virus AF277675,Aparavirus,Assigned,Arthropoda,Decopoda,Shrimp,
+Triatoma virus,AF178440,AAF00472.1,TrV,Triatoma virus AF178440,Triatovirus,Assigned,Arthropoda,Hemiptera,Bug,
