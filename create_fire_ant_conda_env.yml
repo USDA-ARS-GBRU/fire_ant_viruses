@@ -1,0 +1,37 @@
+name: valles_rivers_2018
+channels:
+  - qiime2/label/r2018.6
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - bbmap=38.22=h470a237_0
+  - blast=2.6.0=boost1.64_2
+  - diamond=0.9.21=1
+  - hmmer=3.2.1=hfc679d8_0
+  - libffi=3.2.1=1
+  - repeatmasker=4.0.7=pl526_13
+  - rmblast=2.2.28=h21aa3a5_4
+  - spades=3.13.0=0
+  - sra-tools=2.9.1_1=h470a237_0
+  - trf=4.09=1
+  - bzip2=1.0.6=1
+  - ca-certificates=2018.11.29=ha4d7672_0
+  - certifi=2018.11.29=py37_1000
+  - libgcc=4.8.5=1
+  - ncurses=6.1=hfc679d8_2
+  - openjdk=11.0.1=h470a237_14
+  - openssl=1.0.2p=h470a237_1
+  - perl=5.26.2=h16c6ff1_0
+  - perl-text-soundex=3.05=pl526_1000
+  - pip=18.1=py37_1000
+  - python=3.7.1=h46c1a51_0
+  - readline=7.0=haf1bffa_1
+  - setuptools=40.6.3=py37_0
+  - sqlite=3.26.0=hb1c47c0_0
+  - tk=8.6.9=ha92aebf_0
+  - wheel=0.32.3=py37_0
+  - xz=5.2.4=h470a237_1
+  - zlib=1.2.11=h470a237_3
+prefix: /Users/rivers/anaconda3/envs/valles_rivers_2018
