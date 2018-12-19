@@ -7,6 +7,8 @@ fasterq-dump SRR5852934 -e 4
 fasterq-dump SRR5852935 -e 4
 fasterq-dump SRR5852936 -e 4
 fasterq-dump SRR5852937 -e 4
+# Fore more libraries will be available after they become bublic on NCBI.
+# They will be listed under the the SRA project accession SRP113235
 
 # Remove contaminants and adaptors
 bash clean.sh

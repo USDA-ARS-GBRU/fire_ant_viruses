@@ -27,8 +27,8 @@ The metagenomics workflow followed these steps.
    (not included in repo)
 
 > Note: many steps in  the work flow were run using the SLURM scheduler. The
-> runall.sh files omit the sbatch commands for job submission to make the workflow
-> portable, however without a large memory machine some steps may not run. 
+> runall.sh files omits the `sbatch` command for job submission to make the workflow
+> portable, however without a large memory machine some steps may not run.
 
 ### Virus_abundance
 
